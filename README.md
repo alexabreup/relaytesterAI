@@ -1,4 +1,4 @@
-# Welcome to your GPT Engineer project
+# Welcome to yourALEXPTECH project
 
 ## Project info
 
@@ -8,15 +8,15 @@
 
 There are several ways of editing your application.
 
-**Use GPT Engineer**
+**UseALEXPTECH**
 
-Simply visit the GPT Engineer project at [GPT Engineer](https://gptengineer.app/projects/92371a67-5265-4099-851e-5ad27320c1e9/improve) and start prompting.
+Simply visit theALEXPTECH project at [GPT Engineer](https://gptengineer.app/projects/92371a67-5265-4099-851e-5ad27320c1e9/improve) and start prompting.
 
 Changes made via gptengineer.app will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in the GPT Engineer UI.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in theALEXPTECH UI.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,7 +62,7 @@ This project is built with .
 
 ## How can I deploy this project?
 
-All GPT Engineer projects can be deployed directly via the GPT Engineer app.
+AllALEXPTECH projects can be deployed directly via theALEXPTECH app.
 
 Simply visit your project at [GPT Engineer](https://gptengineer.app/projects/92371a67-5265-4099-851e-5ad27320c1e9/improve) and click on Share -> Publish.
 
